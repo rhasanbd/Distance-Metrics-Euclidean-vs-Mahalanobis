@@ -12,4 +12,4 @@ Mahalanobis distance metric function:
 - Diagonalizes the covariance matrix (features are decorrelated).
 - Then, it scales the features.
 
-<img src="https://cse.unl.edu/~hasan/Pics/Mahalanobis.png" width=800, height=400>
+<img src="http://engineering.unl.edu/images/uploads/Mahalanobis.png" width=800, height=400>
